@@ -1,5 +1,5 @@
 # my_parcel
-My parcel POCs
+My parcel https://parceljs.org/ POCs
 
 # 1st Time Build
 npm install
